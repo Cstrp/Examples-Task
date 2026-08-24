@@ -10,11 +10,11 @@ scalar DateTime
 type EducationModel {
   degree: String
   description: String
-  endYear: Float
+  endDate: DateTime
   faculty: String
   id: ID!
   institution: String!
-  startYear: Float
+  startDate: DateTime!
 }
 
 type ExperienceModel {

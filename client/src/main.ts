@@ -12,7 +12,7 @@ const app = createApp(App)
 
 app.provide(DefaultApolloClient, apolloClient)
 
-app.use(VWave, { color: '', initialOpacity: 0.5, easing: 'ease-in-out', duration: 0.5 })
+app.use(VWave, { color: '#FFFFFF', initialOpacity: 0.5, easing: 'ease-in-out', duration: 0.5 })
 app.use(MotionPlugin)
 app.use(pinia)
 

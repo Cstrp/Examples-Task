@@ -8,7 +8,7 @@ export class ProfileService {
   constructor(private readonly prisma: PrismaService) {}
 
   public async findAll() {
-    return this.prisma.profile.findMany({
+    const profiles = await this.prisma.profile.findMany({
       include: {
         experiences: true,
         education: true,
@@ -18,6 +18,10 @@ export class ProfileService {
       },
       orderBy: { createdAt: 'desc' },
     });
+
+    this.logger.debug(`Found ${profiles.length} profiles`);
+
+    return profiles;
   }
 
   public async findOne(id: string) {
@@ -35,6 +39,8 @@ export class ProfileService {
     if (!profile) {
       throw new NotFoundException(`Profile ${id} not found.`);
     }
+
+    this.logger.debug(`Found profile ${id}`);
 
     return profile;
   }

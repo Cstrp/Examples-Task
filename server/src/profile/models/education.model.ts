@@ -14,11 +14,11 @@ export class EducationModel {
   @Field({ nullable: true })
   degree?: string;
 
-  @Field()
-  startDate: Date;
+  @Field({ nullable: true })
+  startYear?: number;
 
   @Field({ nullable: true })
-  endDate?: Date;
+  endYear?: number;
 
   @Field({ nullable: true })
   description?: string;

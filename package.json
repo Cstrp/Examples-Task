@@ -19,6 +19,7 @@
   "type": "module",
   "devDependencies": {
     "concurrently": "^10.0.5",
-    "prettier": "^3.9.6"
+    "prettier": "^3.9.6",
+    "prettier-plugin-sort-imports": "^1.8.11"
   }
 }

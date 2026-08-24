@@ -1,7 +1,9 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
+import Button from './components/ui/button/Button.vue';
 </script>
 
 <template>
-  <HelloWorld />
+  <div>
+    <Button variant="ghost">Hello world </Button>
+  </div>
 </template>

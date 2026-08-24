@@ -39,24 +39,21 @@ model Experience {
   id String @id @default(uuid())
 
   profileId String
-  profile   Profile @relation(fields: [profileId], references: [id], onDelete: Cascade)
+  profile   Profile @relation( fields: [profileId], references: [id], onDelete: Cascade)
 
-  company  String
-  position String
-
-  startYear Int?
-  endYear   Int?
-
+  company     String
+  position    String
+  startDate   DateTime
+  endDate     DateTime?
   location    String?
   description String?
-
-  highlights String[] @default([])
+  highlights  String[] @default([])
 
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
 
   @@index([profileId])
-  @@index([profileId, startYear])
+  @@index([profileId, startDate])
 }
 
 model Education {

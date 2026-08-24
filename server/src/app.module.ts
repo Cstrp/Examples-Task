@@ -11,7 +11,8 @@ import { Module } from '@nestjs/common';
     GraphQLModule.forRoot<MercuriusDriverConfig>({
       driver: MercuriusDriver,
       transformAutoSchemaFile: true,
-      autoSchemaFile: 'schema.gql',
+      autoSchemaFile:
+        process.env.NODE_ENV === 'production' ? true : 'schema.gql',
       subscription: true,
       sortSchema: true,
       path: '/graphql',

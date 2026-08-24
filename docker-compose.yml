@@ -1,4 +1,22 @@
 services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-cv}
+      POSTGRES_USER: ${POSTGRES_USER:-cv}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?POSTGRES_PASSWORD must be set}
+    networks:
+      - backend
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    healthcheck:
+      test:
+        ['CMD-SHELL', 'pg_isready -U "$${POSTGRES_USER}" -d "$${POSTGRES_DB}"']
+      interval: 5s
+      timeout: 5s
+      retries: 10
+    restart: unless-stopped
+
   server:
     build:
       context: ./server
@@ -7,11 +25,30 @@ services:
       NODE_ENV: production
       HOST: 0.0.0.0
       PORT: 3000
+      DATABASE_URL: ${DATABASE_URL:?DATABASE_URL must be set}
+    depends_on:
+      db:
+        condition: service_healthy
     networks:
       - backend
     expose:
       - '3000'
     restart: unless-stopped
+
+  seed:
+    profiles: ['seed']
+    build:
+      context: ./server
+      dockerfile: Dockerfile
+      target: build
+    environment:
+      DATABASE_URL: ${DATABASE_URL:?DATABASE_URL must be set}
+    depends_on:
+      db:
+        condition: service_healthy
+    networks:
+      - backend
+    command: ['pnpm', 'exec', 'tsx', 'prisma/seed.ts']
 
   client:
     build:
@@ -33,3 +70,6 @@ networks:
   backend:
     driver: bridge
     internal: true
+
+volumes:
+  postgres-data:

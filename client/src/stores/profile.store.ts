@@ -135,7 +135,7 @@ export const useProfileStore = defineStore('profile', () => {
   const loading = ref(false)
   const error = ref<string | null>(null)
 
-  const profile = computed(() => profiles.value.find(p => p.id === 'c675c736-bf27-4430-b67a-007b75656b18'))
+  const profile = computed(() => profiles.value.find(p => p.firstName === 'Валерий'))
   const skillGroups = computed(() => {
     const groups = new Map<string, ProfileSkill[]>()
     profile.value?.skills.forEach((item) => {

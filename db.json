@@ -1,0 +1,1721 @@
+{
+  "tasks": [
+    {
+      "id": "seed-task-a",
+      "title": "Inspect HVAC unit",
+      "description": "Check the rooftop ventilation system and confirm pressure readings.",
+      "dueAt": "2026-09-16T10:00:00.000Z",
+      "status": "In Progress",
+      "location": {
+        "address": "23 North Street, Depot 7",
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "history-a",
+          "timestamp": "2026-09-14T08:30:00.000Z",
+          "actionType": "Task created",
+          "description": "Initial task created for site follow-up."
+        }
+      ],
+      "createdAt": "2026-09-14T08:30:00.000Z",
+      "updatedAt": "2026-09-14T08:30:00.000Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "seed-task-b",
+      "title": "Review meter installation",
+      "description": "Verify the digital meter is installed and calibrated before close-out.",
+      "dueAt": "2026-09-17T15:30:00.000Z",
+      "status": "New",
+      "location": {
+        "address": "7 Harbor Lane, Unit 2",
+        "latitude": -33.879,
+        "longitude": 151.214
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "history-b",
+          "timestamp": "2026-09-14T09:00:00.000Z",
+          "actionType": "Task created",
+          "description": "Scheduled for customer inspection."
+        }
+      ],
+      "createdAt": "2026-09-14T09:00:00.000Z",
+      "updatedAt": "2026-09-14T09:00:00.000Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "z5_COqPjhyI",
+      "title": "Review meter installation 11111111111111",
+      "description": "Verify the digital meter is installed and calibrated before close-out.",
+      "dueAt": "2026-09-15T14:58:00.000Z",
+      "status": "New",
+      "location": {
+        "address": "7 Harbor Lane, Unit 2",
+        "latitude": -33.879,
+        "longitude": 151.214
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "194e7c5c-4830-4397-9a10-01044f422d54",
+          "timestamp": "2026-09-14T11:58:42.613Z",
+          "actionType": "Task created",
+          "description": "Scheduled for customer inspection."
+        },
+        {
+          "id": "da084409-4eef-4caa-982e-a43051b297c5",
+          "timestamp": "2026-09-14T12:00:06.448Z",
+          "actionType": "Task edited",
+          "description": "Updated details for Review meter installation 11111111111111."
+        }
+      ],
+      "createdAt": "2026-09-14T11:58:42.613Z",
+      "updatedAt": "2026-09-14T12:00:06.448Z",
+      "syncStatus": "Pending Sync"
+    },
+    {
+      "id": "M5_6yzASFR8",
+      "title": "Inspect HVAC unit 123",
+      "description": "Check the rooftop ventilation system and confirm pressure readings.",
+      "dueAt": "2026-09-14T13:58:00.000Z",
+      "status": "In Progress",
+      "location": {
+        "address": "23 North Street, Depot 7",
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "45880848-05d4-4168-97b3-7cd6954faeb0",
+          "timestamp": "2026-09-14T11:58:42.613Z",
+          "actionType": "Task created",
+          "description": "Initial task created for site follow-up."
+        },
+        {
+          "id": "ebd00a17-198e-40a4-8d7e-53225b9f0065",
+          "timestamp": "2026-09-14T11:59:49.072Z",
+          "actionType": "Task edited",
+          "description": "Updated details for Inspect HVAC unit 123."
+        }
+      ],
+      "createdAt": "2026-09-14T11:58:42.613Z",
+      "updatedAt": "2026-09-14T11:59:49.072Z",
+      "syncStatus": "Pending Sync"
+    },
+    {
+      "id": "i8SGoMyS_gE",
+      "title": "Review meter installation 11111111111111",
+      "description": "Verify the digital meter is installed and calibrated before close-out.",
+      "dueAt": "2026-09-15T14:58:00.000Z",
+      "status": "New",
+      "location": {
+        "address": "7 Harbor Lane, Unit 2",
+        "latitude": -33.879,
+        "longitude": 151.214
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "194e7c5c-4830-4397-9a10-01044f422d54",
+          "timestamp": "2026-09-14T11:58:42.613Z",
+          "actionType": "Task created",
+          "description": "Scheduled for customer inspection."
+        },
+        {
+          "id": "da084409-4eef-4caa-982e-a43051b297c5",
+          "timestamp": "2026-09-14T12:00:06.448Z",
+          "actionType": "Task edited",
+          "description": "Updated details for Review meter installation 11111111111111."
+        }
+      ],
+      "createdAt": "2026-09-14T11:58:42.613Z",
+      "updatedAt": "2026-09-14T12:00:06.448Z",
+      "syncStatus": "Pending Sync"
+    },
+    {
+      "id": "zcnWpN6CB_U",
+      "title": "Inspect HVAC unit 123",
+      "description": "Check the rooftop ventilation system and confirm pressure readings.",
+      "dueAt": "2026-09-14T13:58:00.000Z",
+      "status": "In Progress",
+      "location": {
+        "address": "23 North Street, Depot 7",
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "45880848-05d4-4168-97b3-7cd6954faeb0",
+          "timestamp": "2026-09-14T11:58:42.613Z",
+          "actionType": "Task created",
+          "description": "Initial task created for site follow-up."
+        },
+        {
+          "id": "ebd00a17-198e-40a4-8d7e-53225b9f0065",
+          "timestamp": "2026-09-14T11:59:49.072Z",
+          "actionType": "Task edited",
+          "description": "Updated details for Inspect HVAC unit 123."
+        }
+      ],
+      "createdAt": "2026-09-14T11:58:42.613Z",
+      "updatedAt": "2026-09-14T11:59:49.072Z",
+      "syncStatus": "Pending Sync"
+    },
+    {
+      "id": "61g9fPa4Kok",
+      "title": "Review meter installation 11111111111111",
+      "description": "Verify the digital meter is installed and calibrated before close-out.",
+      "dueAt": "2026-09-15T14:58:00.000Z",
+      "status": "New",
+      "location": {
+        "address": "7 Harbor Lane, Unit 2",
+        "latitude": -33.879,
+        "longitude": 151.214
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "194e7c5c-4830-4397-9a10-01044f422d54",
+          "timestamp": "2026-09-14T11:58:42.613Z",
+          "actionType": "Task created",
+          "description": "Scheduled for customer inspection."
+        },
+        {
+          "id": "da084409-4eef-4caa-982e-a43051b297c5",
+          "timestamp": "2026-09-14T12:00:06.448Z",
+          "actionType": "Task edited",
+          "description": "Updated details for Review meter installation 11111111111111."
+        }
+      ],
+      "createdAt": "2026-09-14T11:58:42.613Z",
+      "updatedAt": "2026-09-14T12:00:06.448Z",
+      "syncStatus": "Pending Sync"
+    },
+    {
+      "id": "sgeTFu23Dv8",
+      "title": "Inspect HVAC unit 123",
+      "description": "Check the rooftop ventilation system and confirm pressure readings.",
+      "dueAt": "2026-09-14T13:58:00.000Z",
+      "status": "In Progress",
+      "location": {
+        "address": "23 North Street, Depot 7",
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "45880848-05d4-4168-97b3-7cd6954faeb0",
+          "timestamp": "2026-09-14T11:58:42.613Z",
+          "actionType": "Task created",
+          "description": "Initial task created for site follow-up."
+        },
+        {
+          "id": "ebd00a17-198e-40a4-8d7e-53225b9f0065",
+          "timestamp": "2026-09-14T11:59:49.072Z",
+          "actionType": "Task edited",
+          "description": "Updated details for Inspect HVAC unit 123."
+        }
+      ],
+      "createdAt": "2026-09-14T11:58:42.613Z",
+      "updatedAt": "2026-09-14T11:59:49.072Z",
+      "syncStatus": "Pending Sync"
+    },
+    {
+      "id": "GOTS41l9QSg",
+      "title": "Inspect HVAC unit",
+      "description": "Check the rooftop ventilation system and confirm pressure readings.",
+      "dueAt": "2026-09-14T16:58:42.572Z",
+      "status": "Cancelled",
+      "location": {
+        "address": "23 North Street, Depot 7",
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "48028d4c-bb51-42ba-94f3-714765d64770",
+          "timestamp": "2026-09-14T11:58:42.572Z",
+          "actionType": "Task created",
+          "description": "Initial task created for site follow-up."
+        },
+        {
+          "id": "b590ad2e-bfb6-4345-8822-7a597956c691",
+          "timestamp": "2026-09-14T11:59:25.457Z",
+          "actionType": "Status updated",
+          "description": "Task status changed to Cancelled."
+        },
+        {
+          "id": "1bc60434-d8f1-4e1e-b52d-4bc806b27c8b",
+          "timestamp": "2026-09-14T11:59:25.872Z",
+          "actionType": "Status updated",
+          "description": "Task status changed to Completed."
+        },
+        {
+          "id": "e63f8f0e-bb52-49a2-90e7-7590efbc52f6",
+          "timestamp": "2026-09-14T11:59:26.767Z",
+          "actionType": "Status updated",
+          "description": "Task status changed to Cancelled."
+        }
+      ],
+      "createdAt": "2026-09-14T11:58:42.572Z",
+      "updatedAt": "2026-09-14T11:59:26.767Z",
+      "syncStatus": "Pending Sync"
+    },
+    {
+      "id": "U4tyvTr4QPE",
+      "title": "Review meter installation",
+      "description": "Verify the digital meter is installed and calibrated before close-out.",
+      "dueAt": "2026-09-15T17:58:42.572Z",
+      "status": "Completed",
+      "location": {
+        "address": "7 Harbor Lane, Unit 2",
+        "latitude": -33.879,
+        "longitude": 151.214
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "6cda2af8-d78b-4656-9611-07110dd805c0",
+          "timestamp": "2026-09-14T11:58:42.572Z",
+          "actionType": "Task created",
+          "description": "Scheduled for customer inspection."
+        },
+        {
+          "id": "089d31f3-9173-4dc4-94fe-fa6576b1146d",
+          "timestamp": "2026-09-14T11:59:23.288Z",
+          "actionType": "Status updated",
+          "description": "Task status changed to Completed."
+        }
+      ],
+      "createdAt": "2026-09-14T11:58:42.572Z",
+      "updatedAt": "2026-09-14T11:59:23.288Z",
+      "syncStatus": "Pending Sync"
+    },
+    {
+      "id": "bT8Z8O5f7f8",
+      "title": "Inspect HVAC unit",
+      "description": "Check the rooftop ventilation system and confirm pressure readings.",
+      "dueAt": "2026-09-14T16:58:42.572Z",
+      "status": "Cancelled",
+      "location": {
+        "address": "23 North Street, Depot 7",
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "48028d4c-bb51-42ba-94f3-714765d64770",
+          "timestamp": "2026-09-14T11:58:42.572Z",
+          "actionType": "Task created",
+          "description": "Initial task created for site follow-up."
+        },
+        {
+          "id": "b590ad2e-bfb6-4345-8822-7a597956c691",
+          "timestamp": "2026-09-14T11:59:25.457Z",
+          "actionType": "Status updated",
+          "description": "Task status changed to Cancelled."
+        },
+        {
+          "id": "1bc60434-d8f1-4e1e-b52d-4bc806b27c8b",
+          "timestamp": "2026-09-14T11:59:25.872Z",
+          "actionType": "Status updated",
+          "description": "Task status changed to Completed."
+        },
+        {
+          "id": "e63f8f0e-bb52-49a2-90e7-7590efbc52f6",
+          "timestamp": "2026-09-14T11:59:26.767Z",
+          "actionType": "Status updated",
+          "description": "Task status changed to Cancelled."
+        }
+      ],
+      "createdAt": "2026-09-14T11:58:42.572Z",
+      "updatedAt": "2026-09-14T11:59:26.767Z",
+      "syncStatus": "Pending Sync"
+    },
+    {
+      "id": "is2KJAv0jXI",
+      "title": "Review meter installation",
+      "description": "Verify the digital meter is installed and calibrated before close-out.",
+      "dueAt": "2026-09-15T17:58:42.572Z",
+      "status": "Completed",
+      "location": {
+        "address": "7 Harbor Lane, Unit 2",
+        "latitude": -33.879,
+        "longitude": 151.214
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "6cda2af8-d78b-4656-9611-07110dd805c0",
+          "timestamp": "2026-09-14T11:58:42.572Z",
+          "actionType": "Task created",
+          "description": "Scheduled for customer inspection."
+        },
+        {
+          "id": "089d31f3-9173-4dc4-94fe-fa6576b1146d",
+          "timestamp": "2026-09-14T11:59:23.288Z",
+          "actionType": "Status updated",
+          "description": "Task status changed to Completed."
+        }
+      ],
+      "createdAt": "2026-09-14T11:58:42.572Z",
+      "updatedAt": "2026-09-14T11:59:23.288Z",
+      "syncStatus": "Pending Sync"
+    },
+    {
+      "id": "7lgp93R2Ctg",
+      "title": "Inspect HVAC unit",
+      "description": "Check the rooftop ventilation system and confirm pressure readings.",
+      "dueAt": "2026-09-14T16:58:42.572Z",
+      "status": "Cancelled",
+      "location": {
+        "address": "23 North Street, Depot 7",
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "48028d4c-bb51-42ba-94f3-714765d64770",
+          "timestamp": "2026-09-14T11:58:42.572Z",
+          "actionType": "Task created",
+          "description": "Initial task created for site follow-up."
+        },
+        {
+          "id": "b590ad2e-bfb6-4345-8822-7a597956c691",
+          "timestamp": "2026-09-14T11:59:25.457Z",
+          "actionType": "Status updated",
+          "description": "Task status changed to Cancelled."
+        },
+        {
+          "id": "1bc60434-d8f1-4e1e-b52d-4bc806b27c8b",
+          "timestamp": "2026-09-14T11:59:25.872Z",
+          "actionType": "Status updated",
+          "description": "Task status changed to Completed."
+        },
+        {
+          "id": "e63f8f0e-bb52-49a2-90e7-7590efbc52f6",
+          "timestamp": "2026-09-14T11:59:26.767Z",
+          "actionType": "Status updated",
+          "description": "Task status changed to Cancelled."
+        }
+      ],
+      "createdAt": "2026-09-14T11:58:42.572Z",
+      "updatedAt": "2026-09-14T11:59:26.767Z",
+      "syncStatus": "Pending Sync"
+    },
+    {
+      "id": "nsAI0zIC8r8",
+      "title": "Review meter installation",
+      "description": "Verify the digital meter is installed and calibrated before close-out.",
+      "dueAt": "2026-09-15T17:58:42.572Z",
+      "status": "Completed",
+      "location": {
+        "address": "7 Harbor Lane, Unit 2",
+        "latitude": -33.879,
+        "longitude": 151.214
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "6cda2af8-d78b-4656-9611-07110dd805c0",
+          "timestamp": "2026-09-14T11:58:42.572Z",
+          "actionType": "Task created",
+          "description": "Scheduled for customer inspection."
+        },
+        {
+          "id": "089d31f3-9173-4dc4-94fe-fa6576b1146d",
+          "timestamp": "2026-09-14T11:59:23.288Z",
+          "actionType": "Status updated",
+          "description": "Task status changed to Completed."
+        }
+      ],
+      "createdAt": "2026-09-14T11:58:42.572Z",
+      "updatedAt": "2026-09-14T11:59:23.288Z",
+      "syncStatus": "Pending Sync"
+    },
+    {
+      "id": "YmUq6aHtGUs",
+      "title": "Inspect HVAC unit",
+      "description": "Check the rooftop ventilation system and confirm pressure readings.",
+      "dueAt": "2026-09-14T16:58:42.572Z",
+      "status": "Cancelled",
+      "location": {
+        "address": "23 North Street, Depot 7",
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "48028d4c-bb51-42ba-94f3-714765d64770",
+          "timestamp": "2026-09-14T11:58:42.572Z",
+          "actionType": "Task created",
+          "description": "Initial task created for site follow-up."
+        },
+        {
+          "id": "b590ad2e-bfb6-4345-8822-7a597956c691",
+          "timestamp": "2026-09-14T11:59:25.457Z",
+          "actionType": "Status updated",
+          "description": "Task status changed to Cancelled."
+        },
+        {
+          "id": "1bc60434-d8f1-4e1e-b52d-4bc806b27c8b",
+          "timestamp": "2026-09-14T11:59:25.872Z",
+          "actionType": "Status updated",
+          "description": "Task status changed to Completed."
+        },
+        {
+          "id": "e63f8f0e-bb52-49a2-90e7-7590efbc52f6",
+          "timestamp": "2026-09-14T11:59:26.767Z",
+          "actionType": "Status updated",
+          "description": "Task status changed to Cancelled."
+        }
+      ],
+      "createdAt": "2026-09-14T11:58:42.572Z",
+      "updatedAt": "2026-09-14T11:59:26.767Z",
+      "syncStatus": "Pending Sync"
+    },
+    {
+      "id": "A0tkRWt1dG4",
+      "title": "Review meter installation",
+      "description": "Verify the digital meter is installed and calibrated before close-out.",
+      "dueAt": "2026-09-15T17:58:42.572Z",
+      "status": "Completed",
+      "location": {
+        "address": "7 Harbor Lane, Unit 2",
+        "latitude": -33.879,
+        "longitude": 151.214
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "6cda2af8-d78b-4656-9611-07110dd805c0",
+          "timestamp": "2026-09-14T11:58:42.572Z",
+          "actionType": "Task created",
+          "description": "Scheduled for customer inspection."
+        },
+        {
+          "id": "089d31f3-9173-4dc4-94fe-fa6576b1146d",
+          "timestamp": "2026-09-14T11:59:23.288Z",
+          "actionType": "Status updated",
+          "description": "Task status changed to Completed."
+        }
+      ],
+      "createdAt": "2026-09-14T11:58:42.572Z",
+      "updatedAt": "2026-09-14T11:59:23.288Z",
+      "syncStatus": "Pending Sync"
+    },
+    {
+      "id": "fEjNkw9FRiY",
+      "title": "Inspect HVAC unit",
+      "description": "Check the rooftop ventilation system and confirm pressure readings.",
+      "dueAt": "2026-09-14T16:58:42.572Z",
+      "status": "Cancelled",
+      "location": {
+        "address": "23 North Street, Depot 7",
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "48028d4c-bb51-42ba-94f3-714765d64770",
+          "timestamp": "2026-09-14T11:58:42.572Z",
+          "actionType": "Task created",
+          "description": "Initial task created for site follow-up."
+        },
+        {
+          "id": "b590ad2e-bfb6-4345-8822-7a597956c691",
+          "timestamp": "2026-09-14T11:59:25.457Z",
+          "actionType": "Status updated",
+          "description": "Task status changed to Cancelled."
+        },
+        {
+          "id": "1bc60434-d8f1-4e1e-b52d-4bc806b27c8b",
+          "timestamp": "2026-09-14T11:59:25.872Z",
+          "actionType": "Status updated",
+          "description": "Task status changed to Completed."
+        },
+        {
+          "id": "e63f8f0e-bb52-49a2-90e7-7590efbc52f6",
+          "timestamp": "2026-09-14T11:59:26.767Z",
+          "actionType": "Status updated",
+          "description": "Task status changed to Cancelled."
+        }
+      ],
+      "createdAt": "2026-09-14T11:58:42.572Z",
+      "updatedAt": "2026-09-14T11:59:26.767Z",
+      "syncStatus": "Pending Sync"
+    },
+    {
+      "id": "3XmddkEvIQs",
+      "title": "Review meter installation",
+      "description": "Verify the digital meter is installed and calibrated before close-out.",
+      "dueAt": "2026-09-15T17:58:42.572Z",
+      "status": "Completed",
+      "location": {
+        "address": "7 Harbor Lane, Unit 2",
+        "latitude": -33.879,
+        "longitude": 151.214
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "6cda2af8-d78b-4656-9611-07110dd805c0",
+          "timestamp": "2026-09-14T11:58:42.572Z",
+          "actionType": "Task created",
+          "description": "Scheduled for customer inspection."
+        },
+        {
+          "id": "089d31f3-9173-4dc4-94fe-fa6576b1146d",
+          "timestamp": "2026-09-14T11:59:23.288Z",
+          "actionType": "Status updated",
+          "description": "Task status changed to Completed."
+        }
+      ],
+      "createdAt": "2026-09-14T11:58:42.572Z",
+      "updatedAt": "2026-09-14T11:59:23.288Z",
+      "syncStatus": "Pending Sync"
+    },
+    {
+      "id": "QbAxewxRxcE",
+      "title": "Inspect HVAC unit",
+      "description": "Check the rooftop ventilation system and confirm pressure readings.",
+      "dueAt": "2026-09-14T16:58:42.572Z",
+      "status": "Cancelled",
+      "location": {
+        "address": "23 North Street, Depot 7",
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "48028d4c-bb51-42ba-94f3-714765d64770",
+          "timestamp": "2026-09-14T11:58:42.572Z",
+          "actionType": "Task created",
+          "description": "Initial task created for site follow-up."
+        },
+        {
+          "id": "b590ad2e-bfb6-4345-8822-7a597956c691",
+          "timestamp": "2026-09-14T11:59:25.457Z",
+          "actionType": "Status updated",
+          "description": "Task status changed to Cancelled."
+        },
+        {
+          "id": "1bc60434-d8f1-4e1e-b52d-4bc806b27c8b",
+          "timestamp": "2026-09-14T11:59:25.872Z",
+          "actionType": "Status updated",
+          "description": "Task status changed to Completed."
+        },
+        {
+          "id": "e63f8f0e-bb52-49a2-90e7-7590efbc52f6",
+          "timestamp": "2026-09-14T11:59:26.767Z",
+          "actionType": "Status updated",
+          "description": "Task status changed to Cancelled."
+        }
+      ],
+      "createdAt": "2026-09-14T11:58:42.572Z",
+      "updatedAt": "2026-09-14T11:59:26.767Z",
+      "syncStatus": "Pending Sync"
+    },
+    {
+      "id": "yCP8jLG36y4",
+      "title": "Review meter installation",
+      "description": "Verify the digital meter is installed and calibrated before close-out.",
+      "dueAt": "2026-09-15T17:58:42.572Z",
+      "status": "Completed",
+      "location": {
+        "address": "7 Harbor Lane, Unit 2",
+        "latitude": -33.879,
+        "longitude": 151.214
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "6cda2af8-d78b-4656-9611-07110dd805c0",
+          "timestamp": "2026-09-14T11:58:42.572Z",
+          "actionType": "Task created",
+          "description": "Scheduled for customer inspection."
+        },
+        {
+          "id": "089d31f3-9173-4dc4-94fe-fa6576b1146d",
+          "timestamp": "2026-09-14T11:59:23.288Z",
+          "actionType": "Status updated",
+          "description": "Task status changed to Completed."
+        }
+      ],
+      "createdAt": "2026-09-14T11:58:42.572Z",
+      "updatedAt": "2026-09-14T11:59:23.288Z",
+      "syncStatus": "Pending Sync"
+    },
+    {
+      "id": "0guJZfN1EZw",
+      "title": "Inspect HVAC unit",
+      "description": "Check the rooftop ventilation system and confirm pressure readings.",
+      "dueAt": "2026-09-14T17:05:24.017Z",
+      "status": "In Progress",
+      "location": {
+        "address": "23 North Street, Depot 7",
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "e7723890-80ad-4d89-9569-b5e10aee7e2d",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Initial task created for site follow-up."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "ol9uFqfN3lA",
+      "title": "Review meter installation",
+      "description": "Verify the digital meter is installed and calibrated before close-out.",
+      "dueAt": "2026-09-15T18:05:24.017Z",
+      "status": "New",
+      "location": {
+        "address": "7 Harbor Lane, Unit 2",
+        "latitude": -33.879,
+        "longitude": 151.214
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "3bc33544-28d9-4273-904c-e07b53233984",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Scheduled for customer inspection."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "L6FMKH6Vgfo",
+      "title": "Review meter installation",
+      "description": "Verify the digital meter is installed and calibrated before close-out.",
+      "dueAt": "2026-09-15T18:05:24.017Z",
+      "status": "New",
+      "location": {
+        "address": "7 Harbor Lane, Unit 2",
+        "latitude": -33.879,
+        "longitude": 151.214
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "3bc33544-28d9-4273-904c-e07b53233984",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Scheduled for customer inspection."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "vshY8K17GI0",
+      "title": "Inspect HVAC unit",
+      "description": "Check the rooftop ventilation system and confirm pressure readings.",
+      "dueAt": "2026-09-14T17:05:24.017Z",
+      "status": "In Progress",
+      "location": {
+        "address": "23 North Street, Depot 7",
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "e7723890-80ad-4d89-9569-b5e10aee7e2d",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Initial task created for site follow-up."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "QDVAsJXoorE",
+      "title": "Review meter installation",
+      "description": "Verify the digital meter is installed and calibrated before close-out.",
+      "dueAt": "2026-09-15T18:05:24.017Z",
+      "status": "New",
+      "location": {
+        "address": "7 Harbor Lane, Unit 2",
+        "latitude": -33.879,
+        "longitude": 151.214
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "3bc33544-28d9-4273-904c-e07b53233984",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Scheduled for customer inspection."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "o1MsKgZi8NI",
+      "title": "Inspect HVAC unit",
+      "description": "Check the rooftop ventilation system and confirm pressure readings.",
+      "dueAt": "2026-09-14T17:05:24.017Z",
+      "status": "In Progress",
+      "location": {
+        "address": "23 North Street, Depot 7",
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "e7723890-80ad-4d89-9569-b5e10aee7e2d",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Initial task created for site follow-up."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "DORU635EFE8",
+      "title": "Review meter installation",
+      "description": "Verify the digital meter is installed and calibrated before close-out.",
+      "dueAt": "2026-09-15T18:05:24.017Z",
+      "status": "New",
+      "location": {
+        "address": "7 Harbor Lane, Unit 2",
+        "latitude": -33.879,
+        "longitude": 151.214
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "3bc33544-28d9-4273-904c-e07b53233984",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Scheduled for customer inspection."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "QQM5AN8gDu0",
+      "title": "Inspect HVAC unit",
+      "description": "Check the rooftop ventilation system and confirm pressure readings.",
+      "dueAt": "2026-09-14T17:05:24.017Z",
+      "status": "In Progress",
+      "location": {
+        "address": "23 North Street, Depot 7",
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "e7723890-80ad-4d89-9569-b5e10aee7e2d",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Initial task created for site follow-up."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "Nx3Z--uE0U8",
+      "title": "Review meter installation",
+      "description": "Verify the digital meter is installed and calibrated before close-out.",
+      "dueAt": "2026-09-15T18:05:24.017Z",
+      "status": "New",
+      "location": {
+        "address": "7 Harbor Lane, Unit 2",
+        "latitude": -33.879,
+        "longitude": 151.214
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "3bc33544-28d9-4273-904c-e07b53233984",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Scheduled for customer inspection."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "62yU8aexDKc",
+      "title": "Inspect HVAC unit",
+      "description": "Check the rooftop ventilation system and confirm pressure readings.",
+      "dueAt": "2026-09-14T17:05:24.017Z",
+      "status": "In Progress",
+      "location": {
+        "address": "23 North Street, Depot 7",
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "e7723890-80ad-4d89-9569-b5e10aee7e2d",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Initial task created for site follow-up."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "dFHAyqiMvMU",
+      "title": "Review meter installation",
+      "description": "Verify the digital meter is installed and calibrated before close-out.",
+      "dueAt": "2026-09-15T18:05:24.017Z",
+      "status": "New",
+      "location": {
+        "address": "7 Harbor Lane, Unit 2",
+        "latitude": -33.879,
+        "longitude": 151.214
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "3bc33544-28d9-4273-904c-e07b53233984",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Scheduled for customer inspection."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "ItOagz6fIuk",
+      "title": "Inspect HVAC unit",
+      "description": "Check the rooftop ventilation system and confirm pressure readings.",
+      "dueAt": "2026-09-14T17:05:24.017Z",
+      "status": "In Progress",
+      "location": {
+        "address": "23 North Street, Depot 7",
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "e7723890-80ad-4d89-9569-b5e10aee7e2d",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Initial task created for site follow-up."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "p8OyjNSkA50",
+      "title": "Review meter installation",
+      "description": "Verify the digital meter is installed and calibrated before close-out.",
+      "dueAt": "2026-09-15T18:05:24.017Z",
+      "status": "New",
+      "location": {
+        "address": "7 Harbor Lane, Unit 2",
+        "latitude": -33.879,
+        "longitude": 151.214
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "3bc33544-28d9-4273-904c-e07b53233984",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Scheduled for customer inspection."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "elgGPZkzUME",
+      "title": "Inspect HVAC unit",
+      "description": "Check the rooftop ventilation system and confirm pressure readings.",
+      "dueAt": "2026-09-14T17:05:24.017Z",
+      "status": "In Progress",
+      "location": {
+        "address": "23 North Street, Depot 7",
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "e7723890-80ad-4d89-9569-b5e10aee7e2d",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Initial task created for site follow-up."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "TWYfq1xKNzE",
+      "title": "Inspect HVAC unit",
+      "description": "Check the rooftop ventilation system and confirm pressure readings.",
+      "dueAt": "2026-09-14T17:05:24.017Z",
+      "status": "In Progress",
+      "location": {
+        "address": "23 North Street, Depot 7",
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "e7723890-80ad-4d89-9569-b5e10aee7e2d",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Initial task created for site follow-up."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "YF-6mmXbyY8",
+      "title": "Review meter installation",
+      "description": "Verify the digital meter is installed and calibrated before close-out.",
+      "dueAt": "2026-09-15T18:05:24.017Z",
+      "status": "New",
+      "location": {
+        "address": "7 Harbor Lane, Unit 2",
+        "latitude": -33.879,
+        "longitude": 151.214
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "3bc33544-28d9-4273-904c-e07b53233984",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Scheduled for customer inspection."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "PcxfNvVVZAs",
+      "title": "Inspect HVAC unit",
+      "description": "Check the rooftop ventilation system and confirm pressure readings.",
+      "dueAt": "2026-09-14T17:05:24.017Z",
+      "status": "In Progress",
+      "location": {
+        "address": "23 North Street, Depot 7",
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "e7723890-80ad-4d89-9569-b5e10aee7e2d",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Initial task created for site follow-up."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "pomZm_By0Ec",
+      "title": "Review meter installation",
+      "description": "Verify the digital meter is installed and calibrated before close-out.",
+      "dueAt": "2026-09-15T18:05:24.017Z",
+      "status": "New",
+      "location": {
+        "address": "7 Harbor Lane, Unit 2",
+        "latitude": -33.879,
+        "longitude": 151.214
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "3bc33544-28d9-4273-904c-e07b53233984",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Scheduled for customer inspection."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "Nsoq05ZCr_E",
+      "title": "Inspect HVAC unit",
+      "description": "Check the rooftop ventilation system and confirm pressure readings.",
+      "dueAt": "2026-09-14T17:05:24.017Z",
+      "status": "In Progress",
+      "location": {
+        "address": "23 North Street, Depot 7",
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "e7723890-80ad-4d89-9569-b5e10aee7e2d",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Initial task created for site follow-up."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "8owBeECpQU0",
+      "title": "Review meter installation",
+      "description": "Verify the digital meter is installed and calibrated before close-out.",
+      "dueAt": "2026-09-15T18:05:24.017Z",
+      "status": "New",
+      "location": {
+        "address": "7 Harbor Lane, Unit 2",
+        "latitude": -33.879,
+        "longitude": 151.214
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "3bc33544-28d9-4273-904c-e07b53233984",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Scheduled for customer inspection."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "rtW22g-jxtY",
+      "title": "Inspect HVAC unit",
+      "description": "Check the rooftop ventilation system and confirm pressure readings.",
+      "dueAt": "2026-09-14T17:05:24.017Z",
+      "status": "In Progress",
+      "location": {
+        "address": "23 North Street, Depot 7",
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "e7723890-80ad-4d89-9569-b5e10aee7e2d",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Initial task created for site follow-up."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "8zNfn0-eUqc",
+      "title": "Review meter installation",
+      "description": "Verify the digital meter is installed and calibrated before close-out.",
+      "dueAt": "2026-09-15T18:05:24.017Z",
+      "status": "New",
+      "location": {
+        "address": "7 Harbor Lane, Unit 2",
+        "latitude": -33.879,
+        "longitude": 151.214
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "3bc33544-28d9-4273-904c-e07b53233984",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Scheduled for customer inspection."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "xrBxd7BtuIQ",
+      "title": "Inspect HVAC unit",
+      "description": "Check the rooftop ventilation system and confirm pressure readings.",
+      "dueAt": "2026-09-14T17:05:24.017Z",
+      "status": "In Progress",
+      "location": {
+        "address": "23 North Street, Depot 7",
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "e7723890-80ad-4d89-9569-b5e10aee7e2d",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Initial task created for site follow-up."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "Ta_3rwJ8hj8",
+      "title": "Review meter installation",
+      "description": "Verify the digital meter is installed and calibrated before close-out.",
+      "dueAt": "2026-09-15T18:05:24.017Z",
+      "status": "New",
+      "location": {
+        "address": "7 Harbor Lane, Unit 2",
+        "latitude": -33.879,
+        "longitude": 151.214
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "3bc33544-28d9-4273-904c-e07b53233984",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Scheduled for customer inspection."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "6EVtxP_up94",
+      "title": "Inspect HVAC unit",
+      "description": "Check the rooftop ventilation system and confirm pressure readings.",
+      "dueAt": "2026-09-14T17:05:24.017Z",
+      "status": "In Progress",
+      "location": {
+        "address": "23 North Street, Depot 7",
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "e7723890-80ad-4d89-9569-b5e10aee7e2d",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Initial task created for site follow-up."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "eOaWc3GLVHE",
+      "title": "Review meter installation",
+      "description": "Verify the digital meter is installed and calibrated before close-out.",
+      "dueAt": "2026-09-15T18:05:24.017Z",
+      "status": "New",
+      "location": {
+        "address": "7 Harbor Lane, Unit 2",
+        "latitude": -33.879,
+        "longitude": 151.214
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "3bc33544-28d9-4273-904c-e07b53233984",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Scheduled for customer inspection."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "gNwhm-sQa7c",
+      "title": "Inspect HVAC unit",
+      "description": "Check the rooftop ventilation system and confirm pressure readings.",
+      "dueAt": "2026-09-14T17:05:24.017Z",
+      "status": "In Progress",
+      "location": {
+        "address": "23 North Street, Depot 7",
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "e7723890-80ad-4d89-9569-b5e10aee7e2d",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Initial task created for site follow-up."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "nxAracqUzik",
+      "title": "Review meter installation",
+      "description": "Verify the digital meter is installed and calibrated before close-out.",
+      "dueAt": "2026-09-15T18:05:24.017Z",
+      "status": "New",
+      "location": {
+        "address": "7 Harbor Lane, Unit 2",
+        "latitude": -33.879,
+        "longitude": 151.214
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "3bc33544-28d9-4273-904c-e07b53233984",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Scheduled for customer inspection."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "K6S2-Qotsps",
+      "title": "Inspect HVAC unit",
+      "description": "Check the rooftop ventilation system and confirm pressure readings.",
+      "dueAt": "2026-09-14T17:05:24.017Z",
+      "status": "In Progress",
+      "location": {
+        "address": "23 North Street, Depot 7",
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "e7723890-80ad-4d89-9569-b5e10aee7e2d",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Initial task created for site follow-up."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "7raKrLfCgyI",
+      "title": "Review meter installation",
+      "description": "Verify the digital meter is installed and calibrated before close-out.",
+      "dueAt": "2026-09-15T18:05:24.017Z",
+      "status": "New",
+      "location": {
+        "address": "7 Harbor Lane, Unit 2",
+        "latitude": -33.879,
+        "longitude": 151.214
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "3bc33544-28d9-4273-904c-e07b53233984",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Scheduled for customer inspection."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "M0KvBFmgHAs",
+      "title": "Inspect HVAC unit",
+      "description": "Check the rooftop ventilation system and confirm pressure readings.",
+      "dueAt": "2026-09-14T17:05:24.017Z",
+      "status": "In Progress",
+      "location": {
+        "address": "23 North Street, Depot 7",
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "e7723890-80ad-4d89-9569-b5e10aee7e2d",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Initial task created for site follow-up."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "dkt1pRCXeNE",
+      "title": "Review meter installation",
+      "description": "Verify the digital meter is installed and calibrated before close-out.",
+      "dueAt": "2026-09-15T18:05:24.017Z",
+      "status": "New",
+      "location": {
+        "address": "7 Harbor Lane, Unit 2",
+        "latitude": -33.879,
+        "longitude": 151.214
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "3bc33544-28d9-4273-904c-e07b53233984",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Scheduled for customer inspection."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "TAChhxUzDIE",
+      "title": "Inspect HVAC unit",
+      "description": "Check the rooftop ventilation system and confirm pressure readings.",
+      "dueAt": "2026-09-14T17:05:24.017Z",
+      "status": "In Progress",
+      "location": {
+        "address": "23 North Street, Depot 7",
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "e7723890-80ad-4d89-9569-b5e10aee7e2d",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Initial task created for site follow-up."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "kr4wHfhnAy4",
+      "title": "Review meter installation",
+      "description": "Verify the digital meter is installed and calibrated before close-out.",
+      "dueAt": "2026-09-15T18:05:24.017Z",
+      "status": "New",
+      "location": {
+        "address": "7 Harbor Lane, Unit 2",
+        "latitude": -33.879,
+        "longitude": 151.214
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "3bc33544-28d9-4273-904c-e07b53233984",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Scheduled for customer inspection."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "5BOQ4COUGyo",
+      "title": "Inspect HVAC unit",
+      "description": "Check the rooftop ventilation system and confirm pressure readings.",
+      "dueAt": "2026-09-14T17:05:24.017Z",
+      "status": "In Progress",
+      "location": {
+        "address": "23 North Street, Depot 7",
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "e7723890-80ad-4d89-9569-b5e10aee7e2d",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Initial task created for site follow-up."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "HwjQS631nUA",
+      "title": "Review meter installation",
+      "description": "Verify the digital meter is installed and calibrated before close-out.",
+      "dueAt": "2026-09-15T18:05:24.017Z",
+      "status": "New",
+      "location": {
+        "address": "7 Harbor Lane, Unit 2",
+        "latitude": -33.879,
+        "longitude": 151.214
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "3bc33544-28d9-4273-904c-e07b53233984",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Scheduled for customer inspection."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "tSt8stVZiG4",
+      "title": "Inspect HVAC unit",
+      "description": "Check the rooftop ventilation system and confirm pressure readings.",
+      "dueAt": "2026-09-14T17:05:24.017Z",
+      "status": "In Progress",
+      "location": {
+        "address": "23 North Street, Depot 7",
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "e7723890-80ad-4d89-9569-b5e10aee7e2d",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Initial task created for site follow-up."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "yvOl5vpQaKc",
+      "title": "Review meter installation",
+      "description": "Verify the digital meter is installed and calibrated before close-out.",
+      "dueAt": "2026-09-15T18:05:24.017Z",
+      "status": "New",
+      "location": {
+        "address": "7 Harbor Lane, Unit 2",
+        "latitude": -33.879,
+        "longitude": 151.214
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "3bc33544-28d9-4273-904c-e07b53233984",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Scheduled for customer inspection."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "A3-CLdDO7dI",
+      "title": "Inspect HVAC unit",
+      "description": "Check the rooftop ventilation system and confirm pressure readings.",
+      "dueAt": "2026-09-14T17:05:24.017Z",
+      "status": "In Progress",
+      "location": {
+        "address": "23 North Street, Depot 7",
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "e7723890-80ad-4d89-9569-b5e10aee7e2d",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Initial task created for site follow-up."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "916ZVYyRU78",
+      "title": "Review meter installation",
+      "description": "Verify the digital meter is installed and calibrated before close-out.",
+      "dueAt": "2026-09-15T18:05:24.017Z",
+      "status": "New",
+      "location": {
+        "address": "7 Harbor Lane, Unit 2",
+        "latitude": -33.879,
+        "longitude": 151.214
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "3bc33544-28d9-4273-904c-e07b53233984",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Scheduled for customer inspection."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "jHQDwvCMfHo",
+      "title": "Inspect HVAC unit",
+      "description": "Check the rooftop ventilation system and confirm pressure readings.",
+      "dueAt": "2026-09-14T17:05:24.017Z",
+      "status": "In Progress",
+      "location": {
+        "address": "23 North Street, Depot 7",
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "e7723890-80ad-4d89-9569-b5e10aee7e2d",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Initial task created for site follow-up."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "RSbmLfcfBEM",
+      "title": "Review meter installation",
+      "description": "Verify the digital meter is installed and calibrated before close-out.",
+      "dueAt": "2026-09-15T18:05:24.017Z",
+      "status": "New",
+      "location": {
+        "address": "7 Harbor Lane, Unit 2",
+        "latitude": -33.879,
+        "longitude": 151.214
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "3bc33544-28d9-4273-904c-e07b53233984",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Scheduled for customer inspection."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "LmCvrplfX7c",
+      "title": "Inspect HVAC unit",
+      "description": "Check the rooftop ventilation system and confirm pressure readings.",
+      "dueAt": "2026-09-14T17:05:24.017Z",
+      "status": "In Progress",
+      "location": {
+        "address": "23 North Street, Depot 7",
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "e7723890-80ad-4d89-9569-b5e10aee7e2d",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Initial task created for site follow-up."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    },
+    {
+      "id": "e_ewUcFPYLE",
+      "title": "Review meter installation",
+      "description": "Verify the digital meter is installed and calibrated before close-out.",
+      "dueAt": "2026-09-15T18:05:24.017Z",
+      "status": "New",
+      "location": {
+        "address": "7 Harbor Lane, Unit 2",
+        "latitude": -33.879,
+        "longitude": 151.214
+      },
+      "attachments": [],
+      "history": [
+        {
+          "id": "3bc33544-28d9-4273-904c-e07b53233984",
+          "timestamp": "2026-09-14T12:05:24.017Z",
+          "actionType": "Task created",
+          "description": "Scheduled for customer inspection."
+        }
+      ],
+      "createdAt": "2026-09-14T12:05:24.017Z",
+      "updatedAt": "2026-09-14T12:05:24.017Z",
+      "syncStatus": "Synced"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
